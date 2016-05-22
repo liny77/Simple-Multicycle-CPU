@@ -1,0 +1,12 @@
+MO DM NULL DM.v vlg21/_d_m.bin 1463749876
+MO CU NULL CU.v vlg24/_c_u.bin 1463749876
+MO CPU NULL CPU.v vlg70/_c_p_u.bin 1463749876
+MO DMDR NULL DMDR.v vlg5F/_d_m_d_r.bin 1463749876
+MO IM NULL IM.v vlg3A/_i_m.bin 1463749876
+MO IR NULL IR.v vlg3F/_i_r.bin 1463749876
+MO PC NULL PC.v vlg53/_p_c.bin 1463749876
+MO RegDR NULL RegDR.v vlg38/_reg_d_r.bin 1463749876
+MO ALUOUT NULL ALUOut.v vlg36/_a_l_u_o_u_t.bin 1463749876
+MO Ext NULL Ext.v vlg09/_ext.bin 1463749876
+MO RegFile NULL RegFile.v vlg32/_reg_file.bin 1463749876
+MO ALU NULL ALU.v vlg2A/_a_l_u.bin 1463749876

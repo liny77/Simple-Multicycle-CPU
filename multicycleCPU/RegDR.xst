@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/Fade/Desktop/multicycle cpu/multicycleCPU/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/Fade/Desktop/multicycle cpu/multicycleCPU/xst"
+elaborate
+-ifn RegDR.prj
+-ifmt mixed

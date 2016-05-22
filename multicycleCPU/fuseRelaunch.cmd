@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "C:/Users/Fade/Desktop/multicycle cpu/multicycleCPU/cpu_tf_isim_beh.exe" -prj "C:/Users/Fade/Desktop/multicycle cpu/multicycleCPU/cpu_tf_beh.prj" "work.cpu_tf" "work.glbl" 

@@ -1,0 +1,43 @@
+Running: fuse.exe -relaunch -intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "C:/Users/Fade/Desktop/multicycle cpu/multicycleCPU/cpu_tf_isim_beh.exe" -prj "C:/Users/Fade/Desktop/multicycle cpu/multicycleCPU/cpu_tf_beh.prj" "work.cpu_tf" "work.glbl" 
+ISim P.49d (signature 0x8ef4fb42)
+Number of CPUs detected in this system: 2
+Turning on mult-threading, number of parallel sub-compilation jobs: 4 
+Determining compilation order of HDL files
+Analyzing Verilog file "C:/Users/Fade/Desktop/multicycle cpu/multicycleCPU/RegFile.v" into library work
+Analyzing Verilog file "C:/Users/Fade/Desktop/multicycle cpu/multicycleCPU/RegDR.v" into library work
+Analyzing Verilog file "C:/Users/Fade/Desktop/multicycle cpu/multicycleCPU/PC.v" into library work
+Analyzing Verilog file "C:/Users/Fade/Desktop/multicycle cpu/multicycleCPU/IR.v" into library work
+Analyzing Verilog file "C:/Users/Fade/Desktop/multicycle cpu/multicycleCPU/IM.v" into library work
+Analyzing Verilog file "C:/Users/Fade/Desktop/multicycle cpu/multicycleCPU/Ext.v" into library work
+Analyzing Verilog file "C:/Users/Fade/Desktop/multicycle cpu/multicycleCPU/DMDR.v" into library work
+Analyzing Verilog file "C:/Users/Fade/Desktop/multicycle cpu/multicycleCPU/DM.v" into library work
+Analyzing Verilog file "C:/Users/Fade/Desktop/multicycle cpu/multicycleCPU/CU.v" into library work
+Analyzing Verilog file "C:/Users/Fade/Desktop/multicycle cpu/multicycleCPU/ALUOut.v" into library work
+Analyzing Verilog file "C:/Users/Fade/Desktop/multicycle cpu/multicycleCPU/ALU.v" into library work
+Analyzing Verilog file "C:/Users/Fade/Desktop/multicycle cpu/multicycleCPU/CPU.v" into library work
+Analyzing Verilog file "C:/Users/Fade/Desktop/multicycle cpu/multicycleCPU/cpu_tf.v" into library work
+Analyzing Verilog file "C:/Xilinx/14.4/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 105908 KB
+Fuse CPU Usage: 311 ms
+Compiling module PC
+Compiling module IM
+Compiling module IR
+Compiling module RegFile
+Compiling module RegDR
+Compiling module ALU
+Compiling module ALUOUT
+Compiling module Ext
+Compiling module DM
+Compiling module DMDR
+Compiling module CU
+Compiling module CPU
+Compiling module cpu_tf
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 11 sub-compilation(s) to finish...
+Compiled 14 Verilog Units
+Built simulation executable C:/Users/Fade/Desktop/multicycle cpu/multicycleCPU/cpu_tf_isim_beh.exe
+Fuse Memory Usage: 110496 KB
+Fuse CPU Usage: 483 ms
